@@ -2,9 +2,9 @@
 
 ## Machine Learning
 
-## Deep Clustering
+## Deep Learning
 
 ## Computer Vision
 ### Semantic Segmentation
 
-### Superpixel
+### Superpixels
