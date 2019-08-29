@@ -8,7 +8,8 @@
 ### CNNs
 |Method|Paper|Conference|Code|
 |----|----|----|----|
-|DNC||||
+|DNC|[Towards
+K-means-friendly spaces: Simultaneous deep learning and clustering](https://arxiv.org/pdf/1610.04794.pdf)|Arxiv 2016|[Theano](https://github.com/boyangumn/DCN-New)|
 |DEC||||
 |DBC||||
 |CCNN||||
