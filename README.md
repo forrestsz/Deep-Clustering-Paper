@@ -1,5 +1,5 @@
 # Deep-Clustering-Paper
-Here provide a brief guideline of paper reading about deep clustering, to be continute...
+Here provide a brief guideline of paper reading about deep clustering, to be continute...\
 thanks for [zhoushengisnoob](https://github.com/zhoushengisnoob/DeepClustering) their template,
 
 ## Survey
