@@ -10,8 +10,8 @@ Thanks for [zhoushengisnoob](https://github.com/zhoushengisnoob/DeepClustering),
 ### CNNs
 |Method|Paper|Conference|Code|
 |----|----|----|----|
-|DNC|[Deep learning with nonparametric clustering]()|Arxiv2015||
-|DEC|[Unsupervised deep embedding for clustering analysis]()|ICML2016||
+|DNC|[Deep learning with nonparametric clustering]()|Arxiv 2015||
+|DEC|[Unsupervised deep embedding for clustering analysis]()|ICML 2016||
 |DBC|[Discriminatively boosted image clustering with fully convolutional auto-encoders]()|Arxiv 2017||
 |CCNN|[CNN-based joint clustering and representation learning with feature drift compensation for large-scale image data]()|TMM 2018||
 |IMSAT|[Learning discrete representations via information maximizing self-augmented training]()|Arxiv 2017||
@@ -33,7 +33,7 @@ Thanks for [zhoushengisnoob](https://github.com/zhoushengisnoob/DeepClustering),
 |Method|Paper|Conference|Code|
 |----|----|----|----|
 |VaDE|[Variational deep embedding: An unsupervised and generative approach to clustering]()|Arxiv 2016||
-|GMVAE|[Deep unsupervised clustering with Gaussian mixture variational autoencoders]|Arxiv 2016||
+|GMVAE|[Deep unsupervised clustering with Gaussian mixture variational autoencoders]()|Arxiv 2016||
 ### GAN
 |Method|Paper|Conference|Code|
 |----|----|----|----|
