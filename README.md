@@ -17,9 +17,12 @@ Thanks for [zhoushengisnoob](https://github.com/zhoushengisnoob/DeepClustering),
 |IMSAT|[Learning discrete representations via information maximizing self-augmented training]()|Arxiv 2017||
 |JULE|[Joint unsupervised learning of deep representations and image clusters]()|CVPR 2016||
 |DAC|[Deep adaptive image clustering]()|CVPR 2017||
+|SCCNN|[Speaker identification and clustering using convolutional neural networks]()|MLSP 2016|
 ### DBNs
 |Method|Paper|Conference|Code|
 |----|----|----|----|
+|NMMC|[Deep learning with nonparametric clustering]()|Arxiv 2015||
+|UMMC|[Unsupervised multi-manifold clustering by learning deep representation]()|AAAI 2017||
 ### AE
 |Method|Paper|Conference|Code|
 |----|----|----|----|
