@@ -8,8 +8,7 @@
 ### CNNs
 |Method|Paper|Conference|Code|
 |----|----|----|----|
-|DNC|[Towards
-K-means-friendly spaces: Simultaneous deep learning and clustering](https://arxiv.org/pdf/1610.04794.pdf)|Arxiv 2016|[Theano](https://github.com/boyangumn/DCN-New)|
+|DNC||||
 |DEC||||
 |DBC||||
 |CCNN||||
@@ -22,12 +21,13 @@ K-means-friendly spaces: Simultaneous deep learning and clustering](https://arxi
 ### AE
 |Method|Paper|Conference|Code|
 |----|----|----|----|
-|DCN||||
-|DEN||||
-|DSC-Nets||||
-|DMC||||
-|DEPICT||||
-|DCC||||
+|DNC|[Towards K-means-friendly spaces: Simultaneous deep learning and clustering](https://arxiv.org/pdf/1610.04794.pdf)|Arxiv 2016|[Theano](https://github.com/boyangumn/DCN-New)|
+|DEN|[Deep embedding network for clustering]()|ICPR 2014||
+|DSC-Nets|[Deep Subspace Clustering Networks]()|NIPS 2017||
+|DMC|[Unsupervised multi-manifold clustering by learning deep representation]()|AAAI 2017||
+|DEPICT|[Deep clustering via joint convolutional autoencoder embedding and relative entropy
+minimization]()|ICCV 2017||
+|DCC|[Unsupervised multi-manifold clustering by learning deep representation]()|AAAI 2017||
 ### VAE
 |Method|Paper|Conference|Code|
 |----|----|----|----|
