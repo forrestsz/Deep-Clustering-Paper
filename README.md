@@ -41,7 +41,7 @@ Thanks for [zhoushengisnoob](https://github.com/zhoushengisnoob/DeepClustering),
 |CatGAN|[Unsupervised and semi-supervised learning with categorical generative adversarial networks]()|Arxiv 2015||
 |InfoGAN|[InfoGAN: Interpretable representation learning by information maximizing generative adversarial nets]()|NIPS 2016||
 
-# Applications
+## Applications
 |Method|Paper|Conference|Code|
 |----|----|----|----|
 |DeepCluster|[Deep Clustering for Unsupervised Learning of Visual Features](https://github.com/facebookresearch/deepcluster)|ECCV 2018|[Pytorch](https://github.com/facebookresearch/deepcluster)|
