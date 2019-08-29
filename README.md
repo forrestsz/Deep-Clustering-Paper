@@ -1,4 +1,4 @@
-# Deep-Clustering-Papert
+# Deep-Clustering-Paper
 Here provide a guideline of paper about deep clustering, to be continute...\
 Thanks for [zhoushengisnoob](https://github.com/zhoushengisnoob/DeepClustering), i referenced his template.
 ## Survey
@@ -32,11 +32,11 @@ Thanks for [zhoushengisnoob](https://github.com/zhoushengisnoob/DeepClustering),
 ### VAE
 |Method|Paper|Conference|Code|
 |----|----|----|----|
-|VaDE||||
-|GMVAE||||
+|VaDE|[Variational deep embedding: An unsupervised and generative approach to clustering]()|Arxiv 2016||
+|GMVAE|[Deep unsupervised clustering with Gaussian mixture variational autoencoders]|Arxiv 2016||
 ### GAN
 |Method|Paper|Conference|Code|
 |----|----|----|----|
-|DAC||||
-|CatGAN||||
-|InfoGAN||||
+|DAC|[Deep adversarial Gaussian mixture auto-encoder for clustering]()|ICLR 2017||
+|CatGAN|[Unsupervised and semi-supervised learning with categorical generative adversarial networks]()|Arxiv 2015||
+|InfoGAN|[InfoGAN: Interpretable representation learning by information maximizing generative adversarial nets]()|NIPS 2016||
