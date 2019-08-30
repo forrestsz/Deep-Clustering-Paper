@@ -11,12 +11,12 @@ thanks [zhoushengisnoob](https://github.com/zhoushengisnoob/DeepClustering) for 
 ### CNNs
 |Method|Paper|Conference|Code|
 |----|----|----|----|
-|DNC|[Deep learning with nonparametric clustering]()|Arxiv 2015||
-|DEC|[Unsupervised deep embedding for clustering analysis](https://arxiv.org/pdf/1511.06335.pdf)|ICML 2016|[caffe](https://github.com/piiswrong/dec)|
+|DNC|[Deep learning with nonparametric clustering](https://arxiv.org/pdf/1501.03084.pdf)|Arxiv 2015||
+|DEC|[Unsupervised deep embedding for clustering analysis](https://arxiv.org/pdf/1511.06335.pdf)|ICML 2016|[Caffe](https://github.com/piiswrong/dec)|
 |DBC|[Discriminatively boosted image clustering with fully convolutional auto-encoders]()|Arxiv 2017||
 |CCNN|[CNN-based joint clustering and representation learning with feature drift compensation for large-scale image data]()|TMM 2018||
 |IMSAT|[Learning discrete representations via information maximizing self-augmented training]()|Arxiv 2017||
-|JULE|[Joint unsupervised learning of deep representations and image clusters]()|CVPR 2016||
+|JULE|[Joint unsupervised learning of deep representations and image clusters](http://xxx.itp.ac.cn/pdf/1604.03628.pdf)|CVPR 2016|[Torch](https://github.com/jwyang/JULE.torch)|
 |DAC|[Deep adaptive image clustering]()|CVPR 2017||
 |SCCNN|[Speaker identification and clustering using convolutional neural networks]()|MLSP 2016|
 ### DBNs
